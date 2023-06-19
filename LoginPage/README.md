@@ -1,3 +1,5 @@
+![](https://github.com/IanSiebold/Cool-React-Stuff/blob/main/LoginPage/LoginPage.gif)
+
 Basic login page that I wrote for an application that I am working on. Uses [Chakra UI](https://chakra-ui.com/getting-started) as a base framework.
 
 Here is a stripped down version of my app.js for this project
