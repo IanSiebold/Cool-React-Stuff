@@ -9,7 +9,7 @@ export default function Typing({ text }) {
 
     const typingStyle = {
         width: `${text.length}ch`,
-        animation: `typing 2s steps(${text.length}), blink .5s step-end infinite alternate`,
+        animation: `typing ${text.length / 10}s steps(${text.length}), blink .5s step-end infinite alternate`,
         whiteSpace:'nowrap',
         overflow:'hidden',
         borderRight: '3px solid',
